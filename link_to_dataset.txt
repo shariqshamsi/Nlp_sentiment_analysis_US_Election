@@ -1,0 +1,2 @@
+Following is the link to data set which is being used for analysis :
+https://www.kaggle.com/datasets/subho117/nlp-sentiment-analysis-for-us-election
